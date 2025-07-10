@@ -29,7 +29,7 @@ Files Included
 
 Results & Insights
 Histogram: Shows the spread of final stock prices after 1 year.
-Confidence Intervals Helps estimate the risk/volatility in each stock.
+Confidence Intervals help estimate the risk/volatility in each stock.
 Mean & Standard Deviation: Indicates likely price ranges and uncertainty.
 
  How to Run
